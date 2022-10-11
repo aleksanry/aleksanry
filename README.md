@@ -1,7 +1,5 @@
  
 
-![image](https://user-images.githubusercontent.com/62077915/194127278-c4bc3dc7-90a3-47ca-9e10-24300eb2dcba.png)
-
 
 
 <img align="right" src="https://media2.giphy.com/media/MT5UUV1d4CXE2A37Dg/200w.webp?cid=ecf05e47a5epzbwfj5gxcp49p2z6fa1h9qxdssmgrfmz42ff&rid=200w.webp&ct=g" /> </a>  
