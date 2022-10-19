@@ -1,8 +1,8 @@
  
 
-<img align="center" src="https://imgs.search.brave.com/RgjFNkqNsrE0kvj-Qo5ba-jqXFfph9cdEUPzw_c4omY/rs:fit:500:281:1/g:ce/aHR0cHM6Ly9tZWRp/YS5naXBoeS5jb20v/bWVkaWEvS0E1OTNr/TzBKdlhNcy9naXBo/eS5naWY.gif" /> </a>  
+<img align="right" src="https://imgs.search.brave.com/RgjFNkqNsrE0kvj-Qo5ba-jqXFfph9cdEUPzw_c4omY/rs:fit:500:281:1/g:ce/aHR0cHM6Ly9tZWRp/YS5naXBoeS5jb20v/bWVkaWEvS0E1OTNr/TzBKdlhNcy9naXBo/eS5naWY.gif" /> </a>  
 
-<img align="right" src="https://imgs.search.brave.com/fbKX91bJM3RV0QQnycYT6IoZ2ESOC2E5ha_XO2-EsT4/rs:fit:500:213:1/g:ce/aHR0cHM6Ly9tZWRp/YS5naXBoeS5jb20v/bWVkaWEvMWlxQjli/OFh2S3dSYS9naXBo/eS5naWY.gif" /> </a>  
+<img align="left" src="https://imgs.search.brave.com/fbKX91bJM3RV0QQnycYT6IoZ2ESOC2E5ha_XO2-EsT4/rs:fit:500:213:1/g:ce/aHR0cHM6Ly9tZWRp/YS5naXBoeS5jb20v/bWVkaWEvMWlxQjli/OFh2S3dSYS9naXBo/eS5naWY.gif" /> </a>  
 
 
 
@@ -13,7 +13,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nerminsmaddouri&theme=dracula&show_icons=true&locale=en&layout=compact" alt="nerminsmaddouri" /></p>   
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nerminsmaddouri&theme=dracula&show_icons=true&locale=en&layout=compact" alt="nerminsmaddouri" /></p>   
 
 
   ![Snake animation](https://github.com/NerminSMaddouri/NerminSMaddouri/blob/output/github-contribution-grid-snake.svg) 
