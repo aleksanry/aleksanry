@@ -2,7 +2,8 @@
 
 
 
-![col](https://user-images.githubusercontent.com/62077915/200147946-37b716a3-9ca6-4bc0-b4e7-6a89493f0a19.gif)
+![2806494_unclejeol_shinto](https://user-images.githubusercontent.com/62077915/231635432-63ea6b85-d055-4d6f-96c0-4c78a0d17b53.gif)
+
 
 
 
