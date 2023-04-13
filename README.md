@@ -2,8 +2,6 @@
 
 
 
-![2806494_unclejeol_shinto](https://user-images.githubusercontent.com/62077915/231635432-63ea6b85-d055-4d6f-96c0-4c78a0d17b53.gif)
-
 
 
 
