@@ -23,10 +23,11 @@ I am an Embedded Systems Engineer and IT Technologist specializing in creating s
 ---
 [![](https://visitcount.itsvg.in/api?id=aleksanry&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
- ![Snake animation](https://github.com/NerminSMaddouri/NerminSMaddouri/blob/output/github-contribution-grid-snake.svg) 
-
+<!-- Snake -->
+<div align="center">
+    
+  ![snake gif](https://github.com/aleksanry/aleksanry/blob/output/github-snake-dark.svg)
+</div>
 
 
 
