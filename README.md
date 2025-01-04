@@ -26,7 +26,7 @@ I am an Embedded Systems Engineer and IT Technologist specializing in creating s
 <!-- Snake -->
 <div align="center">
     
-  ![snake gif](https://github.com/aleksanry/aleksanry/blob/output/github-snake-dark.svg)
+ ![Snake animation](https://github.com/aleksanry/aleksanry/blob/output/github-contribution-grid-snake.svg) 
 </div>
 
 
