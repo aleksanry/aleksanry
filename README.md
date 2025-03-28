@@ -8,7 +8,7 @@
 
 
 # 💫 About Me:
-I am an Embedded Systems Engineer and IT Technologist specializing in creating smart IoT solutions that bridge the gap between hardware and software. My work focuses on designing innovative, user-centric systems to address real-world challenges. As a researcher passionate about cyberpsychology, I integrate insights into human behavior to develop intelligent and impactful technologies that enhance connectivity and improve lives
+I am an Embedded Systems Engineer and Professor Technologist Assistant specializing in creating smart IoT solutions that bridge the gap between hardware and software. My work focuses on designing innovative, user-centric systems to address real-world challenges. As a researcher passionate about cyberpsychology, I integrate insights into human behavior to develop intelligent and impactful technologies that enhance connectivity and improve lives
 
 
 
